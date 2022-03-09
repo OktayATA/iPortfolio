@@ -1,0 +1,9 @@
+Php Ýletiþim Formu
+
+gonder.php dosyasýndaki mail@siteadresi.com adresini kendi mail adresiniz olarak deðiþtirin.
+
+Uygulama ile ilgili herhangi bir sorun ile karþýlaþýrsanýz www.celalyurtcu.com adresinden, Php Dersleri bölümündeki "Php Ýletiþim Formu" konu baþlýðýndan sorunlarýnýzý iletebilirsiniz.
+
+-----------------------------------
+
+Son Güncelleme: 03.07.2012
